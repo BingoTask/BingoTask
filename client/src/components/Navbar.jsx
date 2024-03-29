@@ -10,7 +10,7 @@ import {Link} from 'react-router-dom';
 // Define your AnimatedLogo component
 const AnimatedLogo = () => {
   const [text, setText] = useState('');
-  const fullText = 'Digital Timepiece';
+  const fullText = 'TaskIt KSA';
   const typingSpeed = 100; // Typing speed in milliseconds
 
   useEffect(() => {
