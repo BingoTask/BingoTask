@@ -53,7 +53,7 @@ const Navbar = () => {
 
 
   const products = [
-    { name: 'Product 1', href: '#' },
+    { name: 'Tasks', href: '#' },
     { name: 'Product 2', href: '#' },
     { name: 'Product 3', href: '#' },
     // Add more products as needed
