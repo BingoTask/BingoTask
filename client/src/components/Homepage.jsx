@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { Link as RouterLink } from 'react-router-dom';
-import ThreeAnimation from './ThreeAnimation';
 
 const HomePage = () => {
   const languages = ['Welcome to', 'Bienvenue à', 'Bienvenido a']; // Add more languages if needed
