@@ -36,7 +36,7 @@ const HomePage = () => {
           {currentText},
         </h1>
         <h1 className="text-5xl font-bold text-white">
-          Digital Timpiece
+          BingoTask
         </h1>
         <p className="text-xl font-light text-white opacity-80">
           Empowering Your Digital Journey with Innovative Solutions
