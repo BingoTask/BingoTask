@@ -10,7 +10,7 @@ import {Link} from 'react-router-dom';
 // Define your AnimatedLogo component
 const AnimatedLogo = () => {
   const [text, setText] = useState('');
-  const fullText = 'TaskIt KSA';
+  const fullText = 'BINGO';
   const typingSpeed = 100; // Typing speed in milliseconds
 
   useEffect(() => {
@@ -65,7 +65,7 @@ const Navbar = () => {
 
   return (
     <header className="gradient-bg-navbar" style={{ position: 'fixed', top: '0', width: '100%', zIndex: '100' }}>
-      <nav className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8" aria-label="Global">
+      <nav className="flex max-w-7xl items-center justify-between p-6 lg:px-8 " aria-label="Global">
         <div className="flex lg:flex-1">
           <Link to="/">
             <AnimatedLogo />
