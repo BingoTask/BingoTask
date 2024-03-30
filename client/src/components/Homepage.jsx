@@ -39,7 +39,7 @@ const HomePage = () => {
           BingoTask
         </h1>
         <p className="text-xl font-light text-white opacity-80">
-          Empowering Your Digital Journey with Innovative Solutions
+          Make Money, Save Time
         </p>
 
         <div className="flex flex-wrap space-y-4 md:space-y-0 md:space-x-4">
